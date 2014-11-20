@@ -6,14 +6,14 @@
 #results a img { 
 	margin: 15px; 
 	height: 200px; 
-	background: url('img/ajax-loader.gif') no-repeat center center; 
+	background: url('../img/ajax-loader.gif') no-repeat center center; 
 	box-shadow: 0px 3px 3px rgba(33, 33, 33, 0.3);
 }
 
 .shadowbox img { 
 	max-height: 640px; 
 	max-width: 100%;
-	background: url('img/ajax-loader.gif') no-repeat center center;
+	background: url('../img/ajax-loader.gif') no-repeat center center;
 }
 
 #albumImages li, #albumImages a {
