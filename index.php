@@ -9,8 +9,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
 		<script type="text/javascript" src="/scripts/jquery.min.js"></script>
-		<script type="text/javascript" src="/scripts/reddit/reddit.js"></script>
-		<script type="text/javascript" src="/scripts/masonry/dist/masonry.pkgd.js"></script>
+		<script type="text/javascript" src="/scripts/reddit.js"></script>
+		<script type="text/javascript" src="/scripts/masonry.pkgd.js"></script>
 	</head>
 
 	<body>
